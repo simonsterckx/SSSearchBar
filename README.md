@@ -3,6 +3,8 @@ SSSearchBar
 
 A clean, easy to use, awesome replacement for UISearchBar.
 
+<img src="https://dl.dropboxusercontent.com/u/26632507/git/SSSearchBar-Image.png" width="50%" height="50%"/>
+
 How to use
 ===========
 
