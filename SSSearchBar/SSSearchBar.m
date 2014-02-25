@@ -70,7 +70,7 @@
     [self addSubview:self.searchImageView];
     
     //TextField
-    self.textField = [[UITextField alloc] initWithFrame:CGRectMake(2*kXMargin + kIconSize, kYMargin, boundsWidth - 2*kXMargin-kIconSize, textFieldHeight)];
+    self.textField = [[UITextField alloc] initWithFrame:CGRectMake(2*kXMargin + kIconSize, kYMargin, boundsWidth - 4*kXMargin - 2*kIconSize, textFieldHeight)];
     self.textField.delegate = self;
     self.textField.returnKeyType = UIReturnKeySearch;
     self.textField.autocapitalizationType = UITextAutocapitalizationTypeNone;
